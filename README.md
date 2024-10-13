@@ -1,4 +1,2 @@
-# taunt
 
-Visit: https://faruq05.github.io/taunt/
-# taunt
+# https://zellyo-digital0.github.io/taunt
